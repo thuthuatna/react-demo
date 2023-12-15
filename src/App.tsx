@@ -1,11 +1,12 @@
-import { JobList } from "./Tow/JobList";
+import { Collections } from "./Three/Collections";
 
 export default function App() {
   return (
-    <div className="flex h-screen w-full items-center justify-center bg-[#E6EFFA]">
+    <div className="flex w-full items-center justify-center bg-[#E6EFFA]">
       {/* <p>Hello!</p> */}
       {/* <UserProfile /> */}
-      <JobList />
+      {/* <JobList /> */}
+      <Collections />
     </div>
   );
 }
