@@ -15,7 +15,7 @@ export const Collections = () => {
       </div>
 
       <div className=" mt-14 grid grid-cols-1 gap-4 md:grid-cols-2 lg:grid-cols-3">
-        <div className=" rounded-3xl rounded-lg bg-white p-6">
+        <div className=" rounded-3xl bg-white p-6">
           <img
             src="https://placewaifu.com/image/100"
             alt=""
@@ -25,7 +25,7 @@ export const Collections = () => {
             <img
               src="https://placewaifu.com/image/101"
               alt=""
-              className=" aspect-square aspect-video w-full rounded-2xl"
+              className=" aspect-video w-full rounded-2xl"
             />
             <img
               src="https://placewaifu.com/image/102"
@@ -59,7 +59,7 @@ export const Collections = () => {
             </p>
           </div>
         </div>
-        <div className=" rounded-3xl rounded-lg bg-white p-6">
+        <div className=" rounded-3xl bg-white p-6">
           <img
             src="https://placewaifu.com/image/100"
             alt=""
@@ -69,7 +69,7 @@ export const Collections = () => {
             <img
               src="https://placewaifu.com/image/101"
               alt=""
-              className=" aspect-square aspect-video w-full rounded-2xl"
+              className=" aspect-video w-full rounded-2xl"
             />
             <img
               src="https://placewaifu.com/image/102"
@@ -103,7 +103,7 @@ export const Collections = () => {
             </p>
           </div>
         </div>
-        <div className=" rounded-3xl rounded-lg bg-white p-6">
+        <div className=" rounded-3xl bg-white p-6">
           <img
             src="https://placewaifu.com/image/100"
             alt=""
@@ -113,7 +113,7 @@ export const Collections = () => {
             <img
               src="https://placewaifu.com/image/101"
               alt=""
-              className=" aspect-square aspect-video w-full rounded-2xl"
+              className=" aspect-video w-full rounded-2xl"
             />
             <img
               src="https://placewaifu.com/image/102"
