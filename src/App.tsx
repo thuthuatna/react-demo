@@ -1,4 +1,4 @@
-import { Notification } from "./Six/Notification";
+import { Subscriptions } from "./Seven/Subscriptions";
 
 export default function App() {
   return (
@@ -9,7 +9,8 @@ export default function App() {
       {/* <Collections /> */}
       {/* <ReviewForm /> */}
       {/* <Userslist /> */}
-      <Notification />
+      {/* <Notification /> */}
+      <Subscriptions />
     </div>
   );
 }
